@@ -1,14 +1,14 @@
 [
   {
-    "package": "mize",
-    "oncran": true
-  },
-  {
     "package": "RcppHNSW",
     "oncran": true
   },
   {
     "package": "uwot",
+    "oncran": true
+  },
+  {
+    "package": "mize",
     "oncran": true
   }
 ]

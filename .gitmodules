@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "mize"]
-	path = mize
-	url = https://github.com/jlmelville/mize
-	shallow = true
-	registered = true
 [submodule "RcppHNSW"]
 	path = RcppHNSW
 	url = https://github.com/jlmelville/rcpphnsw
@@ -16,5 +11,10 @@
 [submodule "uwot"]
 	path = uwot
 	url = https://github.com/jlmelville/uwot
+	shallow = true
+	registered = true
+[submodule "mize"]
+	path = mize
+	url = https://github.com/jlmelville/mize
 	shallow = true
 	registered = true
