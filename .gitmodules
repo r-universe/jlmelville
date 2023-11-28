@@ -8,6 +8,9 @@
 [submodule "mize"]
 	path = mize
 	url = https://github.com/jlmelville/mize
+[submodule "rnndescent"]
+	path = rnndescent
+	url = https://github.com/jlmelville/rnndescent
 [submodule "uwot"]
 	path = uwot
 	url = https://github.com/jlmelville/uwot
